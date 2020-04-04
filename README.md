@@ -37,6 +37,9 @@ docker-compose --version
 ```bash
 docker-compose up -d
 docker ps
-
 ```
 
+## Access your Wordpress
+```
+curl https://[YOUR_DOMAIN_NAME]
+```
